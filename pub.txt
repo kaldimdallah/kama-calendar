@@ -1,0 +1,4 @@
+{
+  website: "https://www.youtube.com/@Zawanatsa",
+  file: "https://github.com/kaldimdallah/kama-calendar/pub-images/zawanatsa_pub_1.gif",
+}
