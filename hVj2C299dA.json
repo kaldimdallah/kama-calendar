@@ -1,6 +1,7 @@
 [
   {
-    "dontShowCollapsedPub": true,
+    "dontShowPub": true,
+    "dontShowCollapsedPub": true
   },
   {
     "website": "https://www.youtube.com/@Zawanatsa",
