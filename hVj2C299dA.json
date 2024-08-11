@@ -3,7 +3,9 @@
     "dontShowPub": false,
     "dontShowCollapsedPub": true,
     "multiLang": true,
-    "defaultLang": true
+    "defaultLang": true,
+    "idleIntervalControl": 30,
+    "idleThrottle": 500
   },
   {
     "fr": [
