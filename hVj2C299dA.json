@@ -2,20 +2,25 @@
   {
     "dontShowPub": false,
     "dontShowCollapsedPub": true
+    "multilang": true
   },
   {
-    "website": "https://www.youtube.com/@Zawanatsa",
-    "file": "https://raw.githubusercontent.com/kaldimdallah/kama-calendar/hVj2C299dA-files/@Zawanatsa_Dessiner_avec_Mwana_Ngaya_Un_bouclier_zulu.png",
-    "weight": 0.9
-  },
-  {
-    "website": "https://www.youtube.com/@Zawanatsa",
-    "file": "https://raw.githubusercontent.com/kaldimdallah/kama-calendar/hVj2C299dA-files/@Zawanatsa_Dessiner_avec_Mwana_Ngaya_Une_tortue.png",
-    "weight": 0.1
-  },
-  {
-    "website": "https://www.youtube.com/@Zawanatsa",
-    "file": "https://raw.githubusercontent.com/kaldimdallah/kama-calendar/hVj2C299dA-files/@Zawanatsa_Dessiner_avec_Mwana_Ngaya_Une_giraffe.png",
-    "weight": 0.1
+    "fr": [
+      {
+        "website": "https://www.youtube.com/@Zawanatsa",
+        "file": "https://raw.githubusercontent.com/kaldimdallah/kama-calendar/hVj2C299dA-files/@Zawanatsa_Dessiner_avec_Mwana_Ngaya_Un_bouclier_zulu.png",
+        "weight": 0.9
+      },
+      {
+        "website": "https://www.youtube.com/@Zawanatsa",
+        "file": "https://raw.githubusercontent.com/kaldimdallah/kama-calendar/hVj2C299dA-files/@Zawanatsa_Dessiner_avec_Mwana_Ngaya_Une_tortue.png",
+        "weight": 0.1
+      },
+      {
+        "website": "https://www.youtube.com/@Zawanatsa",
+        "file": "https://raw.githubusercontent.com/kaldimdallah/kama-calendar/hVj2C299dA-files/@Zawanatsa_Dessiner_avec_Mwana_Ngaya_Une_giraffe.png",
+        "weight": 0.1
+      }
+    ]
   }
 ]
