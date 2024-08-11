@@ -2,7 +2,8 @@
   {
     "dontShowPub": false,
     "dontShowCollapsedPub": true,
-    "multilang": true
+    "multiLang": true,
+    "defaultLang": false
   },
   {
     "fr": [
