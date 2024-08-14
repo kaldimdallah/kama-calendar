@@ -1,6 +1,6 @@
 [
   {
-    "dontShowPub": true,
+    "dontShowPub": false,
     "dontShowCollapsedPub": true,
     "multiLang": true,
     "defaultLang": true,
