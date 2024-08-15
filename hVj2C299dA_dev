@@ -1,7 +1,7 @@
 [
   {
     "dontShowPub": false,
-    "dontShowCollapsedPub": true,
+    "dontShowCollapsedPub": false,
     "multiLang": true,
     "defaultLang": true,
     "idleIntervalControl": 30,
